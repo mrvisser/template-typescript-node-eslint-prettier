@@ -1,0 +1,1 @@
+# template-typescript-node12-eslint-prettier
